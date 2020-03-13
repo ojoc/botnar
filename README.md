@@ -9,13 +9,15 @@ It seems there are three items that hint at, outline, what Botnar is in search o
 
 * The offline application template; attached.
 
-
+<br>
+<br>
 
 ## References/Funding Call Guides
 The [blog](https://www.fondationbotnar.org/investing-in-young-peoples-wellbeing-and-future/) by Siddhartha Jha gives an excellent insight into what Botnar expects from applicants.  The references therein are (a few notes added):
 
+<br>
 
-### Tech Bets for an Urban World
+#### Tech Bets for an Urban World
 
 * https://www.unicef.org/innovation/reports/tech-bets-urban-world
 
@@ -25,13 +27,15 @@ The [blog](https://www.fondationbotnar.org/investing-in-young-peoples-wellbeing-
 
 The pdf document outlines “... six big ‘tech bets’, which reflect a subset of digital technologies that can have enormous social impact for urban women and children and provides specific recommendations for start-ups, large tech companies, and the public sector”. Hence, [Tech Bets for an Urban World](https://www.unicef.org/innovation/media/166/file/Urban%20Tech%20Bets.pdf) is a good source of ideas.
 
+<br>
 
-### [The power of 1.8 billion: Adolescents, youth and the transformation of the future](https://www.unfpa.org/sites/default/files/pub-pdf/EN-SWOP14-Report_FINAL-web.pdf)
+#### [The power of 1.8 billion: Adolescents, youth and the transformation of the future](https://www.unfpa.org/sites/default/files/pub-pdf/EN-SWOP14-Report_FINAL-web.pdf)
 
 Albeit old, this is quite an informative document. The chapters "Human capital investments open the window to a demographic dividend", "Aligning policies, investments and the demographic transition" & "The future of sustainable development, with youth at the centre", are especially relevant to Botnar.
 
+<br>
 
-### [Our future: a Lancet commission on adolescent health and wellbeing](https://www.thelancet.com/commissions/adolescent-health-and-wellbeing)
+#### [Our future: a Lancet commission on adolescent health and wellbeing](https://www.thelancet.com/commissions/adolescent-health-and-wellbeing)
 
 In his [blog](https://www.fondationbotnar.org/investing-in-young-peoples-wellbeing-and-future/) Siddhartha noted that investing "in young people and their health and wellbeing has been shown to yield high economic and social return, particularly investments that focus on addressing the causes that lead to preventable non communicable diseases ...".  Additional Material: [Non-communicable Diseases](https://www.who.int/news-room/fact-sheets/detail/noncommunicable-diseases)
 
@@ -43,10 +47,12 @@ In his [blog](https://www.fondationbotnar.org/investing-in-young-peoples-wellbei
   * https://www.who.int/nmh/publications/ncd-profiles-2018/en/
   * http://apps.who.int/iris/bitstream/handle/10665/274512/9789241514620-eng.pdf?ua=1
 
+<br>
 
-### [Adolescent Health](https://www.who.int/pmnch/media/news/2018/Adolescent-Health-Missing-Population-in-UHC.pdf?ua=1)
+#### [Adolescent Health](https://www.who.int/pmnch/media/news/2018/Adolescent-Health-Missing-Population-in-UHC.pdf?ua=1)
 Adolescent Health: The Missing Population in Universal Health Coverage by [Plan International](https://plan-uk.org/blogs/adolescents-the-missing-population-in-universal-health-coverage), et al.
 
+<br>
 
-### [MIT Technology Review: The Youth Issue](https://www.technologyreview.com/magazine/2020/01/)
+#### [MIT Technology Review: The Youth Issue](https://www.technologyreview.com/magazine/2020/01/)
 [Does Worldreader have an MIT Technology Review subscription? At the moment I have limited access, but I might be able to access & study the relevant articles, uncertain.] The article How Classroom Technology is Holding Students Back might be of interest.
