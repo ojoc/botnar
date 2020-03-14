@@ -7,7 +7,7 @@ It seems there are three items that hint at, outline, what Botnar is in search o
 
 * The [FAQ document](https://www.fondationbotnar.org/wp-content/uploads/2020/02/FAQ-Fit-for-Future-2.pdf), which outlines restrictions. It also states preferences, for example, projects “... that have co-funding are strongly encouraged and will be given preference.”
 
-* The offline application template.
+* The [offline application](./doc/Botnar%20Application%20Template%20Fit%20for%20the%20Future.pdf) template.
 
 <br>
 <br>
