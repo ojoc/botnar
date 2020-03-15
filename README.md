@@ -1,4 +1,12 @@
-# Fondation Botnar Notes
+* [Fondation Botnar Notes](#fondation_botnar_notes)
+  * [Funding Call Guides & References](#funding-call-guides--references)
+  * [Addendum](#addendum)
+    * [Sustainable Development Goals](#sustainable-development-goals)
+      * [Goal 3: Good Health & Well-Being](#goal-3-good-health--well-being)
+    * [References](#references)
+
+
+## Fondation Botnar Notes
 
 
 It seems there are three items that hint at, outline, what Botnar is in search of:
@@ -12,7 +20,7 @@ It seems there are three items that hint at, outline, what Botnar is in search o
 <br>
 <br>
 
-## References/Funding Call Guides
+### Funding Call Guides & References
 The [blog](https://www.fondationbotnar.org/investing-in-young-peoples-wellbeing-and-future/) by Siddhartha Jha gives an excellent insight into what Botnar expects from applicants.  The references therein are (a few notes added):
 
 <br>
@@ -67,10 +75,9 @@ Adolescent Health: The Missing Population in Universal Health Coverage by [Plan 
 <br>
 <br>
 
-## Addendum
+### Addendum
 
-
-### Sustainable Development Goals
+#### Sustainable Development Goals
 
 * [Sustainable Development Goals (SDG)](https://www.un.org/sustainabledevelopment/)
 
@@ -90,7 +97,7 @@ Adolescent Health: The Missing Population in Universal Health Coverage by [Plan 
 
 <br>
 
-#### Goal 3: Good Health & Well-Being
+##### Goal 3: Good Health & Well-Being
 
 <blockquote>Noncommunicable diseases alone will cost low- and middle-income countries more than $7 trillion in the next 15 years.  <a href="https://www.un.org/sustainabledevelopment/wp-content/uploads/2017/03/ENGLISH_Why_it_Matters_Goal_3_Health.pdf/">(Sustainable Development Goals 3: Good Health & Well-Being Why it Matters)</a></blockquote>
 
@@ -102,7 +109,7 @@ Adolescent Health: The Missing Population in Universal Health Coverage by [Plan 
 <br>
 <br>
 
-### Miscellaneous
+#### References
 
 * [Challenges and Potential Solutions for Sustainable Urban-Rural Linkages in a Ghanaian Context](https://www.mdpi.com/2071-1050/12/2/507/htm)
 * [Sustainable Development Goals Cards](https://www.un.org/sustainabledevelopment/news/communications-material/) (Scroll Down)
