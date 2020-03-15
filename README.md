@@ -98,7 +98,7 @@ Adolescent Health: The Missing Population in Universal Health Coverage by [Plan 
 
 * Targets: https://www.un.org/sustainabledevelopment/health/#tab-3f22056b0e91266e8b2
 
-* [Youth + NCD](https://www.youthandncds.org/home/)
+
 
 <br>
 <br>
@@ -107,5 +107,7 @@ Adolescent Health: The Missing Population in Universal Health Coverage by [Plan 
 
 * [Challenges and Potential Solutions for Sustainable Urban-Rural Linkages in a Ghanaian Context](https://www.mdpi.com/2071-1050/12/2/507/htm)
 * [Sustainable Development Goals Cards](https://www.un.org/sustainabledevelopment/news/communications-material/) (Scroll Down)
-* https://info.thelancet.com/infocus-ncds (2018, Lancet)
-* https://www.thelancet.com/commissions/adolescent-health-and-wellbeing (2016, Lancet)
+* [In Focus NCD: Now is the time to focus on non-communicable diseases](https://info.thelancet.com/infocus-ncds) (2018, Lancet)
+* [Our future: a Lancet commission on adolescent health and wellbeing](https://www.thelancet.com/commissions/adolescent-health-and-wellbeing) (2016, Lancet)
+* [Global Action Plan for the Prevention and Control of NCDs 2013-2020](https://www.who.int/nmh/events/ncd_action_plan/en/)
+* [Youth + NCD](https://www.youthandncds.org/home/)
