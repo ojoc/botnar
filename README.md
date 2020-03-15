@@ -69,7 +69,43 @@ Adolescent Health: The Missing Population in Universal Health Coverage by [Plan 
 
 ## Addendum
 
-"Noncommunicable diseases alone will cost low- and middle-income countries more than $7 trillion in the next 15 years." from [Sustainable Development Goals 3: Good Health & Well-Being](https://www.un.org/sustainabledevelopment/wp-content/uploads/2019/08/Goal-3.zip)
+
+### Sustainable Development Goals
+
+* [Sustainable Development Goals (SDG)](https://www.un.org/sustainabledevelopment/)
+
+* [SDG Indicators](https://unstats.un.org/sdgs/)
+  * [Global indicator framework for the Sustainable Development Goals and targets](https://unstats.un.org/sdgs/indicators/indicators-list/)
+
+
+* [E-Handbook on SDG Indicators](https://unstats.un.org/wiki/display/SDGeHandbook/Home)
+
+* [SDG Indicators Metadata Repository](https://unstats.un.org/sdgs/metadata/)
+
+* [United Nations Statistics Division SDG API](https://unstats.un.org/SDGAPI/swagger/)
+
+* [Towards integration at last? The Sustainable Development Goals as a Network of Targets](https://sustainabledevelopment.un.org/index.php?page=view&type=400&nr=1613&menu=1534)
+
+
+
+<br>
+
+#### Goal 3: Good Health & Well-Being
+
+<blockquote>Noncommunicable diseases alone will cost low- and middle-income countries more than $7 trillion in the next 15 years.  <a href="https://www.un.org/sustainabledevelopment/wp-content/uploads/2017/03/ENGLISH_Why_it_Matters_Goal_3_Health.pdf/">(Sustainable Development Goals 3: Good Health & Well-Being Why it Matters)</a></blockquote>
+
+* Summary: https://www.un.org/sustainabledevelopment/health/
+
+* Targets: https://www.un.org/sustainabledevelopment/health/#tab-3f22056b0e91266e8b2
+
+* [Youth + NCD](https://www.youthandncds.org/home/)
+
+<br>
+<br>
+
+### Miscellaneous
 
 * [Challenges and Potential Solutions for Sustainable Urban-Rural Linkages in a Ghanaian Context](https://www.mdpi.com/2071-1050/12/2/507/htm)
 * [Sustainable Development Goals Cards](https://www.un.org/sustainabledevelopment/news/communications-material/) (Scroll Down)
+* https://info.thelancet.com/infocus-ncds (2018, Lancet)
+* https://www.thelancet.com/commissions/adolescent-health-and-wellbeing (2016, Lancet)
