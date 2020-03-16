@@ -3,11 +3,15 @@
 
 A focus of the [blog](https://www.fondationbotnar.org/investing-in-young-peoples-wellbeing-and-future/) that accompanies the Fondation Botnar [Fit for the Future](https://www.fondationbotnar.org/fit-for-the-future-call/) call is non-communicable diseases.  Non-communicable diseases & mental disorders is the focus of **Target 4** of the United Nations' Sustainable Development Goals (SDG) 3:
 
+<blockquote>
 [Sustainable Development Goals 3](https://www.un.org/sustainabledevelopment/health/)
 Health & Well-Being
+</blockquote>
 
+<blockquote>
 Target 4
 By 2030, reduce by one third premature mortality from non-communicable diseases through prevention and treatment and promote mental health and well-being.
+</blockquote>
 
 Hence, a **thematic/geographic** context might be **Health & Well-Being/Ghana**.   And a **challenge** option is **Non-communicable Diseases & Mental Health**.
 
