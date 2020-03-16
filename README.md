@@ -113,9 +113,17 @@ Adolescent Health: The Missing Population in Universal Health Coverage by [Plan 
 
 #### References
 
-* [Challenges and Potential Solutions for Sustainable Urban-Rural Linkages in a Ghanaian Context](https://www.mdpi.com/2071-1050/12/2/507/htm)
-* [Sustainable Development Goals Cards](https://www.un.org/sustainabledevelopment/news/communications-material/) (Scroll Down)
+* [Challenges and Potential Solutions for Sustainable Urban-Rural Linkages in a Ghanaian Context](https://www.mdpi.com/2071-1050/12/2/507/htm) (2020, Multidisciplinary Digital Publishing Institute)
+* [Sustainable Development Goals Cards](https://www.un.org/sustainabledevelopment/news/communications-material/)
 * [In Focus NCD: Now is the time to focus on non-communicable diseases](https://info.thelancet.com/infocus-ncds) (2018, Lancet)
 * [Our future: a Lancet commission on adolescent health and wellbeing](https://www.thelancet.com/commissions/adolescent-health-and-wellbeing) (2016, Lancet)
-* [Global Action Plan for the Prevention and Control of NCDs 2013-2020](https://www.who.int/nmh/events/ncd_action_plan/en/)
 * [Youth + NCD](https://www.youthandncds.org/home/)
+* [Youth Health Programme](https://www.younghealthprogrammeyhp.com/)
+* [Noncommunicable diseases and their risk factors](https://www.who.int/ncds/publications/en/)
+  * [Global Action Plan for the Prevention and Control of NCDs 2013-2020](https://www.who.int/nmh/events/ncd_action_plan/en/) (2016, WHO)
+  * [Tackling NCD: "Best buys" and other recommended interventions for the prevention and control of noncommunicable diseases](https://www.who.int/ncds/management/best-buys/en/) (2017, WHO)
+  * [Non-communicable diseases and women](https://www.who.int/global-coordination-mechanism/ncd-themes/NCD-and-women/en/)
+* [The Taskforce on Women and Non-communicable Diseases](https://www.womenandncds.org/)
+* [NCD Alliance](https://ncdalliance.org/)    
+* [Mental disorders](https://www.who.int/mental_health/management/en/)
+* [Mental Disorders Prevention, Promotion and Management](https://www.who.int/mental_health/publications/disorders_prevention_promotion/en/)
